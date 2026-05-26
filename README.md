@@ -1,4 +1,5 @@
 # Adaptive OS Memory Engine
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8d27ad3f-ac07-4f9f-8ec1-9024a7d8e94f" />
 
 ## Problem Statement
 
